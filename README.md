@@ -18,7 +18,7 @@ Before using Grabit, ensure the following dependencies are installed:
 
 ```sh
 sudo apt update
-sudo apt install tesseract-ocr imagemagick scrot xclip
+sudo apt install tesseract-ocr imagemagick scrot xclip xsel
 ```
 ## Clone
 
