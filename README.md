@@ -11,14 +11,13 @@ Before using Grabit, ensure the following dependencies are installed:
 
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract): Required for optical character recognition.
 - [ImageMagick](https://imagemagick.org/): Used to manipulate and enhance images.
-- [scrot](https://github.com/resurrecting-open-source-projects/scrot): A command-line screenshot utility.
 - [xclip](https://github.com/astrand/xclip): Required for copying the result to the clipboard.
 
 ## Installation
 
 ```sh
 sudo apt update
-sudo apt install tesseract-ocr imagemagick scrot xclip xsel
+sudo apt install tesseract-ocr imagemagick gnome-screensho xclip xsel
 ```
 ## Clone
 
